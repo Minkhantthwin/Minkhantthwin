@@ -4,7 +4,29 @@
 
 I build scalable applications and APIs with a focus on performance, maintainability, and clean architecture. I am also passionate about cloud & DevOps Culture.
 
----
+```javascript
+const minKhantThwin = {
+    name: "Min Khant Thwin",
+    pronouns: "He" | "Him",
+    code: ["Python", "Java", "JavaScript", "SQL", "HTML", "CSS"],
+    workOn: ["backend", "frontend", "devops"],
+    currently: ["FastAPI", "Spring WebFlux", "React", "Docker"],
+    technologies: {
+        backend: {
+            python: ["FastAPI"],
+            java: ["Spring WebFlux"],
+            js: ["Node.js", "Express"]
+        },
+        frontend: {
+            js: ["React"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        databases: ["Neo4j", "PostgreSQL", "MySQL"],
+        devOps: ["Docker🐳", "Nginx", "GitHub Actions", "Linux Servers"],
+    },
+    architecture: ["Event-Driven", "Microservices", "Serverless"],
+    currentProject: "High-performance API platform"
+};
 
 ## 💻 Tech Stack
 
