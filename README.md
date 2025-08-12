@@ -27,7 +27,7 @@ const minKhantThwin = {
     architecture: ["Event-Driven", "Microservices", "Serverless"],
     currentProject: "High-performance API platform"
 };
-
+```
 ## 💻 Tech Stack
 
 **Backend**
