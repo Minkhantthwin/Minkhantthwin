@@ -44,16 +44,13 @@ I build scalable applications and APIs with a focus on performance, maintainabil
 ---
 
 ## 📫 Get in Touch
-- **Email**: your.email@example.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **Email**: minkhantthwin17@gmail.com  
+- **LinkedIn**: [www.linkedin.com/in/min-khant-thwin-07b620264)  
+
 
 ---
 
 ### ⚡ Fun Fact
-When I'm not coding, I'm probably optimizing some random workflow… or debugging life. 😅
+When I'm not coding, I'm sleeping or eating, I don't know figure yourself out. 😅
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
