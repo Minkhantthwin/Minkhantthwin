@@ -74,5 +74,6 @@ const minKhantThwin = {
 
 ### ⚡ Fun Fact
 When I'm not coding, I'm sleeping or eating, I don't know figure yourself out. 😅
+I don't want to get into relationship. :] Pls don't flirt with me.
 
 ---
